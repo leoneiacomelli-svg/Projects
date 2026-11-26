@@ -7,6 +7,8 @@ Leonardo Flavio Iacomelli · Supervised by Matteo Paoluzzi
 
 *Transizione dinamica in un modello di vetro in due dimensioni*
 
+[Read the full thesis (PDF, Italian)](tesi-transizione-vetrosa.pdf)
+
 How does a disordered material relax as it cools? For my thesis, I implemented a Metropolis Monte Carlo simulation of a two-dimensional glass-forming mixture and analysed how its structure and dynamics changed with temperature.
 
 ### Method
